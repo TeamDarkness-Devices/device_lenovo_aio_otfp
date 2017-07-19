@@ -7,8 +7,8 @@
   },
   {
     "remote": "github",
-    "repository": "PixlernBlitz03/vendor_lenovo_aio_otfp",
+    "repository": "TeamDarkness-Devices/proprietary_vendor_lenovo_aio_otfp",
     "target_path": "vendor/lenovo/aio_otfp",
-    "branch": "test"
+    "branch": "n-mr2"
   }
 ]

@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "TeamDarkness-Devices/device_lenovo_aio_otfp",
+    "target_path": "device/lenovo/aio_otfp",
+    "branch": "n-mr2"
+  },
+  {
+    "remote": "github",
+    "repository": "PixlernBlitz03/vendor_lenovo_aio_otfp",
+    "target_path": "vendor/lenovo/aio_otfp",
+    "branch": "test"
+  }
+]
